@@ -1,0 +1,11 @@
+de início criamos uma base de dados
+
+Dentro dela teremos 4 tabelas
+A primeira cadastra o usuário na 'users' contendo as informações de contato
+
+A segunda cadastra os 'locais' para aluguel contem o local 
+
+A terceira cadastra as estadias pegando o id da pessoa, e o id do local, assim como a data de inicio da hospedagem e a data de termino da hospedagem
+
+A quarta pega o Id da estadia, o id da transação e o id da pessoa assim como os comentários feitos
+
